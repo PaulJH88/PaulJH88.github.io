@@ -17,4 +17,4 @@
     
     
   # Link to hello-world repository
-  httP;//github.com/PaulJH88/hello-world
+  http://github.com/PaulJH88/hello-world
